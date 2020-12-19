@@ -19,3 +19,4 @@ Problèmes rencontre :
 le saut... mon personnage malgré plusieurs tentatives de scripts et différentes façons je n’ai pas réussis à le faire sauter.
 Les shaders (malgré URP installer impossible de le sélectionner)
 
+video : https://youtu.be/qH0dXRR5jXc
