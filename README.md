@@ -20,3 +20,8 @@ le saut... mon personnage malgré plusieurs tentatives de scripts et différente
 Les shaders (malgré URP installer impossible de le sélectionner)
 
 video : https://youtu.be/qH0dXRR5jXc
+
+Sources :
+https://assetstore.unity.com/packages/3d/characters/cyborg-character-112661
+https://assetstore.unity.com/packages/3d/environments/sci-fi/voxel-scifi-environment-free-version-101492
+https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913
